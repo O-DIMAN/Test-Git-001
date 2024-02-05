@@ -34,4 +34,4 @@ git init - инилизация гита
 git status - команда, вызыв, блок инф. по состотоянию. реп.
 ## Lesson 2
 git branch - выводит ветки
-branch - ветка 
+git branch name - создание новой ветки
