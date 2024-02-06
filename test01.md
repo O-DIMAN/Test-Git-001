@@ -18,6 +18,10 @@
 ## Lesson 2
 git branch - выводит ветки
 git branch name - создание новой ветки
+git merge name - слияние веток
+git branch -b name - удаление ветки
+git log --graph - показывает журнал сохраненных изменений учитывая ветки
+
 
 ## Unknown commands
 
@@ -48,6 +52,5 @@ git branch name - создание новой ветки
 1. Список 01
 2. Список 02
 
-git init - инилизация гита
 
 
